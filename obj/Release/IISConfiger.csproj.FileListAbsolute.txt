@@ -1,0 +1,13 @@
+F:\BaiduYunDownload\IISConfiger\bin\Release\IISConfiger.exe.config
+F:\BaiduYunDownload\IISConfiger\bin\Release\IISConfiger.exe.manifest
+F:\BaiduYunDownload\IISConfiger\bin\Release\IISConfiger.application
+F:\BaiduYunDownload\IISConfiger\bin\Release\IISConfiger.exe
+F:\BaiduYunDownload\IISConfiger\bin\Release\IISConfiger.pdb
+F:\BaiduYunDownload\IISConfiger\obj\Release\IISConfiger.IISConfigForm.resources
+F:\BaiduYunDownload\IISConfiger\obj\Release\IISConfiger.Properties.Resources.resources
+F:\BaiduYunDownload\IISConfiger\obj\Release\IISConfiger.csproj.GenerateResource.Cache
+F:\BaiduYunDownload\IISConfiger\obj\Release\IISConfiger.exe.manifest
+F:\BaiduYunDownload\IISConfiger\obj\Release\IISConfiger.application
+F:\BaiduYunDownload\IISConfiger\obj\Release\IISConfiger.exe
+F:\BaiduYunDownload\IISConfiger\obj\Release\IISConfiger.pdb
+F:\BaiduYunDownload\IISConfiger\obj\Release\IISConfiger.csprojResolveAssemblyReference.cache

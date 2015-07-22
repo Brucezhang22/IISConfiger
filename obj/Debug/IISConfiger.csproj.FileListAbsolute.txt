@@ -1,0 +1,26 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\IISConfigHelper\IISConfiger\bin\Debug\IISConfiger.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\IISConfigHelper\IISConfiger\bin\Debug\IISConfiger.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\IISConfigHelper\IISConfiger\bin\Debug\IISConfiger.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\IISConfigHelper\IISConfiger\obj\Debug\IISConfiger.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\IISConfigHelper\IISConfiger\obj\Debug\IISConfiger.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\IISConfigHelper\IISConfiger\obj\Debug\IISConfiger.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\IISConfigHelper\IISConfiger\obj\Debug\IISConfiger.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\IISConfigHelper\IISConfiger\obj\Debug\IISConfiger.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\IISConfigHelper\IISConfiger\obj\Debug\IISConfiger.IISConfigForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\IISConfigHelper\IISConfiger\bin\Debug\IISConfiger.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\IISConfigHelper\IISConfiger\bin\Debug\IISConfiger.application
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\IISConfigHelper\IISConfiger\obj\Debug\IISConfiger.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\IISConfigHelper\IISConfiger\obj\Debug\IISConfiger.application
+F:\BaiduYunDownload\IISConfiger\bin\Debug\IISConfiger.exe.config
+F:\BaiduYunDownload\IISConfiger\obj\Debug\IISConfiger.exe
+F:\BaiduYunDownload\IISConfiger\bin\Debug\IISConfiger.exe.manifest
+F:\BaiduYunDownload\IISConfiger\bin\Debug\IISConfiger.application
+F:\BaiduYunDownload\IISConfiger\bin\Debug\IISConfiger.exe
+F:\BaiduYunDownload\IISConfiger\bin\Debug\IISConfiger.pdb
+F:\BaiduYunDownload\IISConfiger\obj\Debug\IISConfiger.csprojResolveAssemblyReference.cache
+F:\BaiduYunDownload\IISConfiger\obj\Debug\IISConfiger.IISConfigForm.resources
+F:\BaiduYunDownload\IISConfiger\obj\Debug\IISConfiger.Properties.Resources.resources
+F:\BaiduYunDownload\IISConfiger\obj\Debug\IISConfiger.csproj.GenerateResource.Cache
+F:\BaiduYunDownload\IISConfiger\obj\Debug\IISConfiger.exe.manifest
+F:\BaiduYunDownload\IISConfiger\obj\Debug\IISConfiger.application
+F:\BaiduYunDownload\IISConfiger\obj\Debug\IISConfiger.pdb
